@@ -681,13 +681,17 @@ body {
         font: normal normal 300 38px/8px Helvetica;
     }
     .donate{
-        width: 10%;
+        width: 100%;
         display: flex;
        justify-content: center;
        align-items: start;
     }
+    .donate a b {
+        width: 100%;
+        font-size: 1rem;
+    }
     .donatebutton{
-        width:40%;
+        width:100%;
         justify-content: space-between;
         background: #C1F7D5 0% 0% no-repeat padding-box;
         border-radius: 100px;

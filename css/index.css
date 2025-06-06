@@ -54,7 +54,7 @@
 }
 
 .the-issue-page {
-    background: url('assets/assets/home/annie-spratt-135307-unsplash.png') no-repeat;
+    background: url('../assets/assets/home/annie-spratt-135307-unsplash.png') no-repeat;
     background-size: cover;
     height: 80vh;
     background-position-x: 80%;
@@ -75,13 +75,13 @@
 }
 
 #para1 {
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.5rem Helvetica;
     align-content: center;
     color: #354463;
 }
 
 #para2 {
-    background: transparent url('img/Read more about this environmental and social cause.png') 0% 0% no-repeat padding-box;
+    background: transparent url('../img/Read more about this environmental and social cause.png') 0% 0% no-repeat padding-box;
     padding-top: 10%;
     font-size: 17px;
     color: #354463;
@@ -103,7 +103,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 1.1rem Helvetica;
     color: #FFFFFF;
     background: #354463 0% 0% no-repeat padding-box;
     position: relative;
@@ -113,7 +113,7 @@
 
 .action-div {
     text-align: center;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 1rem Helvetica;
     color: #FFFFFF;
     background: #354463 0% 0% no-repeat padding-box;
     display: flex;
@@ -167,7 +167,7 @@
 .do {
     height: 4vh;
     width: 30vw;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 1.1rem Helvetica;
     color: #354463;
     background: #FFFFFF 0% 0% no-repeat padding-box;
     position: relative;
@@ -181,7 +181,7 @@
     padding: 10%;
     margin-top: 3%;
     text-align: center;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.5rem Helvetica;
     color: #FFFFFF;
 }
 
@@ -234,7 +234,7 @@
 
 .plant-para {
     text-align: center;
-    font: normal normal 300 14px/20px Helvetica;
+    font: normal normal 300 1.1rem Helvetica;
     color: #354463;
     margin-top: 5%;
     font-size: 17px;
@@ -249,7 +249,7 @@
     width: 30vw;
     background: #C1F7D5 0% 0% no-repeat padding-box;
     border-radius: 100px;
-    font: normal normal bold 16px/20px Helvetica;
+    font: normal normal bold 1.1rem Helvetica;
     color: #354463;
     position: relative;
     left: 30%;
@@ -263,7 +263,7 @@
     flex-direction: column;
     flex: 1;
     width: 100%;
-    background: url('assets/assets/home/did-you-know-background@2x.png') no-repeat;
+    background: url('../assets/assets/home/did-you-know-background@2x.png') no-repeat;
     background-size: cover;
 }
 
@@ -285,7 +285,7 @@
 
 .action-today {
     text-align: left;
-    font: normal normal bold 16px/20px Helvetica;
+    font: normal normal bold 1.1rem Helvetica;
     color: #354463;
     background: #C1F7D5 0% 0% no-repeat padding-box;
     border-radius: 100px;
@@ -334,12 +334,12 @@
 
 .icon-head {
     text-align: left;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.5rem Helvetica;
     color: #354463;
 }
 
 .icon-para {
-    background: transparent url('img/People living in poverty depend on agriculture for survival..png') 0% 0% no-repeat padding-box;
+    background: transparent url('../img/People living in poverty depend on agriculture for survival..png') 0% 0% no-repeat padding-box;
     padding-top: 7%;
     font-size: 17px;
 }
@@ -363,7 +363,7 @@
 }
 
 .did-you-know {
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal Helvetica;
     background: #354463 0% 0% no-repeat padding-box;
     color: #FFFFFF;
     height: 4vh;
@@ -405,7 +405,7 @@
 
 .stories-div {
     background: #354463 0% 0% no-repeat padding-box;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 1.1rem Helvetica;
     color: #FFFFFF;
     height: 4vh;
     width: 31vw;
@@ -419,13 +419,13 @@
 
 .read-content {
     text-align: center;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.4rem Helvetica;
     color: #FFFFFF;
 }
 
 .read-text {
     text-align: center;
-    font: normal normal normal 11px/13px Helvetica;
+    font: normal normal normal 1.1rem Helvetica;
     color: #FFFFFF;
     margin-top: 10%;
     font-size: 13px;
@@ -433,7 +433,7 @@
 
 .story-read-more {
     text-align: center;
-    font: normal normal bold 18px/22px Helvetica;
+    font: normal normal bold 1.1rem Helvetica;
     color: #354463;
     background: #C1F7D5 0% 0% no-repeat padding-box;
     border-radius: 100px;
@@ -473,7 +473,7 @@
 
 .event-para {
     text-align: center;
-    font: normal normal normal 44px/46px Flood Std;
+    font: normal normal normal 2.5rem Flood Std;
     color: #FFFFFF;
 }
 
@@ -491,7 +491,7 @@
     position: absolute;
     left: 37%;
     top: -2%;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 1.1rem Helvetica;
     color: #354463;
     background: #FFFFFF 0% 0% no-repeat padding-box;
 }
@@ -506,7 +506,7 @@
     left: 30%;
     top: -2%;
     text-align: center;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 1.1rem Helvetica;
     color: #354463;
     background: #FFFFFF 0% 0% no-repeat padding-box;
 }
@@ -514,13 +514,13 @@
 .event-div-text {
     text-align: center;
     margin-top: 15px;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.8rem Helvetica;
     color: #FFFFFF;
 }
 
 .event-div-para {
     text-align: center;
-    font: normal normal 300 20px/32px Helvetica;
+    font: normal normal 300 2rem Helvetica;
     color: #FFFFFF;
     font-size: 15px;
     margin-top: 10px;
@@ -529,20 +529,20 @@
 .event-div-text1 {
     text-align: center;
     margin-top: 15px;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.8rem Helvetica;
     color: #FFFFFF;
 }
 
 .event-div-para1 {
     text-align: center;
-    font: normal normal 300 20px/32px Helvetica;
+    font: normal normal 300 2rem Helvetica;
     color: #FFFFFF;
     font-size: 15px;
     margin-top: 10px;
 }
 
 .event-read {
-    font: normal normal bold 16px/18px Helvetica;
+    font: normal normal bold 1.2rem Helvetica;
     color: #354463;
     background: #C1F7D5 0% 0% no-repeat padding-box;
     border-radius: 100px;
@@ -556,7 +556,7 @@
 }
 
 .event-read1 {
-    font: normal normal bold 16px/18px Helvetica;
+    font: normal normal bold 1.2rem Helvetica;
     color: #354463;
     background: #C1F7D5 0% 0% no-repeat padding-box;
     border-radius: 100px;
@@ -587,7 +587,7 @@
 
 .sub-text {
     text-align: left;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.7rem Helvetica;
     color: #354463;
 }
 
@@ -612,7 +612,7 @@
 .sub {
     flex: 1;
     text-align: left;
-    font: normal normal bold 16px/19px Helvetica;
+    font: normal normal bold 1.2rem Helvetica;
     color: #C1F7D5;
     background: #354463 0% 0% no-repeat padding-box;
     border-radius: 100px;
@@ -631,27 +631,27 @@
 
 .title {
     text-align: left;
-    font: normal normal bold 18px/22px Helvetica;
+    font: normal normal bold 1.2rem Helvetica;
     color: #354463;
 }
 
 .contact {
     text-align: left;
-    font: normal normal 300 14px/20px Helvetica;
+    font: normal normal 300 1.1rem Helvetica;
     color: #354463;
 }
 
 .follow {
     text-align: left;
     text-decoration: underline;
-    font: normal normal 300 14px/24px Helvetica;
+    font: normal normal 300 1.1rem Helvetica;
     color: #354463;
 }
 
 .learn {
     text-align: left;
     text-decoration: underline;
-    font: normal normal 300 14px/24px Helvetica;
+    font: normal normal 300 1.1rem Helvetica;
     color: #354463;
 }
 
@@ -659,11 +659,14 @@
     grid-column: 2;
     grid-row: 3/4;
     text-align: right;
-    font: normal normal normal 44px/46px Flood Std;
+    font: normal normal normal 2.5rem Flood Std;
     color: #354463;
 }
 
 @media (max-width: 1024px) and (min-width: 601px) {
+    html{
+        font-size:16px;
+    }
     .navbar {
         height: 15vh;
         display: flex;
@@ -672,7 +675,7 @@
     }
 
     .heading1 {
-        font-size: 25px;
+        font-size: 1.5rem;
     }
 
     .navelements {
@@ -695,24 +698,24 @@
     .elements {
         display: flex;
         justify-content: space-between;
-        font-size: 20px;
+        font-size: 1.5rem;
     }
 
     #para1 {
         text-align: left;
-        font: normal normal bold 36px/46px Helvetica;
+        font: normal normal bold  Helvetica;
     }
 
     #para2 {
         text-align: left;
-        font: normal normal 300 16px/24px Helvetica;
+        font: normal normal 300  Helvetica;
         font-size: 20px;
         padding-top: 10%;
     }
 
     .the-issue {
         width: 20%;
-        font: normal normal normal 14px/17px Helvetica;
+        font: normal normal normal  Helvetica;
         position: relative;
         left: 0%;
     }
@@ -799,19 +802,17 @@
     .plant-para {
         width: 80%;
         text-align: left;
-        font: normal normal 300 16px/24px Helvetica;
+        font: normal normal 300  Helvetica;
         padding-top: 6%;
-        font-size: 17px;
-    }
 
+    }
     .plant-head {
-        font: normal normal bold 22px/28px Helvetica;
-        padding-right: 5%;
+        font: normal normal bold 1.5rem Helvetica;
+        padding-left: 10%;
     }
-
     .plant-head1 {
-        font: normal normal bold 22px/28px Helvetica;
-        padding-right: 20%;
+        font: normal normal bold 1.5rem Helvetica;
+        padding-left: 10%;
     }
 
     .icon-para {
@@ -832,14 +833,14 @@
     .do {
         height: 4vh;
         width: 20%;
-        font: normal normal normal 14px/17px Helvetica;
+        font: normal normal normal  Helvetica;
         position: relative;
         left: 5%;
     }
 
     .do-text {
         text-align: left;
-        font: normal normal bold 36px/46px Helvetica;
+        font: normal normal bold  Helvetica;
         position: relative;
         right: 5%;
         padding-top: 0%;
@@ -871,17 +872,17 @@
 
     .action-today {
         text-align: left;
-        height: 3vh;
-        width: 20vw;
+        height: 5%;
+        width: 80%;
         margin-left: 10%
     }
 
     .did-you-know {
-        height: 4vh;
-        width: 20vw;
+        height: 4%;
+        width: 40%;
         position: absolute;
         left: 17%;
-        top: 7%;
+        top: 5%;
     }
 
     .stories-image img {
@@ -941,12 +942,16 @@
 
     .event-para {
         text-align: left;
-        font: normal normal normal 72px/76px Flood Std;
+        font: normal normal normal 3rem Flood Std;
     }
 
     .event-text {
         width: 80%;
         margin-bottom: 5%;
+    }
+
+    .event-div1{
+        font-size:0.7rem;
     }
 
     .event-image img {
@@ -958,7 +963,7 @@
         margin-left: 15%;
         margin-top: 5%;
         text-align: left;
-        font: normal normal bold 28px/36px Helvetica;
+        font: normal normal bold  Helvetica;
         width: 90%;
     }
 
@@ -967,7 +972,7 @@
         top: 10%;
         right: 10%;
         text-align: left;
-        font: normal normal bold 28px/36px Helvetica;
+        font: normal normal bold  Helvetica;
         width: 90%;
     }
 
@@ -1020,9 +1025,8 @@
     }
 
     .sub-text {
-        font: normal normal bold 22px/28px Helvetica;
+        font: normal normal bold  Helvetica;
         width: 60%;
-        font-size: 25px;
     }
 
     .subscribe-contents {
@@ -1053,33 +1057,33 @@
     }
 
     .title {
-        font: normal normal bold 18px/22px Helvetica;
+        font: normal normal bold  Helvetica;
     }
 
     .contact {
-        font: normal normal 300 14px/20px Helvetica;
+        font: normal normal 300 Helvetica;
     }
 
     .follow {
-        font: normal normal 300 14px/24px Helvetica;
+        font: normal normal 300  Helvetica;
     }
 
     .learn {
         grid-column: 2/3;
         grid-row: 2/3;
-        font: normal normal 300 14px/24px Helvetica;
+        font: normal normal 300  Helvetica;
     }
 
     .stop {
         grid-column: 3/4;
         grid-row: 2/3;
-        font: normal normal normal 44px/46px Flood Std;
+        font: normal normal normal  Flood Std;
     }
 }
 
 @media(min-width:1025px) {
     .heading1 {
-        font-size: 30px;
+        font-size: 1.875rem;
         line-height: 102%;
     }
 
@@ -1102,13 +1106,13 @@
     .elements {
         display: flex;
         justify-content: space-between;
-        font-size: 27px;
+        font-size: 1.6875rem;
         padding-top: 3%;
     }
 
     .donatebutton {
         width: 15vw;
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
     .the-issue-page {
@@ -1131,12 +1135,12 @@
 
     #para1 {
         text-align: left;
-        font: normal normal bold 44px/56px Helvetica;
+        font: normal normal bold 2.75rem Helvetica;
     }
 
     #para2 {
         text-align: left;
-        font: normal normal 300 16px/24px Helvetica;
+        font: normal normal 300 1rem Helvetica;
         padding-top: 10%;
     }
 
@@ -1162,7 +1166,7 @@
         position: relative;
         left: 1%;
         bottom: 15%;
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
     .take-action {
@@ -1170,40 +1174,39 @@
         grid-template-columns: 25% 25% 25% 25%;
         gap: 1.5rem;
         padding: 5rem;
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
     .hspace {
         margin-bottom: 2%;
         padding-left: 10%;
-        font-size: 25px;
+        font-size: 1.5625rem;
     }
 
     .para {
         width: 100%;
         padding-left: 10%;
-        font-size: 25px;
+        font-size: 1.5625rem;
         margin-bottom: 0%;
     }
 
     #para2 {
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
     .action-div {
-        font: normal normal normal 14px/17px Helvetica;
+        font: normal normal normal 0.875rem/1.0625rem Helvetica;
         height: 4vh;
         width: 20%;
         position: relative;
         left: 47%;
         top: 98%;
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
     .we-do {
         flex: 1;
         padding-top: 1%;
-
     }
 
     .do {
@@ -1212,14 +1215,14 @@
         position: relative;
         left: 4%;
         margin-top: 1%;
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
     .do-text {
         padding: 2%;
         margin-top: 2%;
         text-align: left;
-        font: normal normal bold 44px/56px Helvetica;
+        font: normal normal bold 2.75rem/3.5rem Helvetica;
         margin-left: 2%;
     }
 
@@ -1264,24 +1267,24 @@
 
     .plant-para {
         text-align: left;
-        font: normal normal 300 16px/24px Helvetica;
+        font: normal normal 300 1rem/1.5rem Helvetica;
         opacity: 1;
         margin-top: 2%;
         margin-right: 27%;
         width: 70%;
         padding-left: 0%;
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
     .plant-read {
         height: 4vh;
         width: 10vw;
-        font: normal normal bold 16px/20px Helvetica;
+        font: normal normal bold 1rem/1.25rem Helvetica;
         position: relative;
         left: 11%;
         margin-bottom: 10%;
         margin-top: 10%;
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
     .plant-text {
@@ -1290,7 +1293,7 @@
 
     .plant-head1 {
         text-align: left;
-        font: normal normal bold 28px/36px Helvetica;
+        font: normal normal bold 1.75rem/2.25rem Helvetica;
         color: #354463;
         position: relative;
         left: 0%;
@@ -1300,13 +1303,12 @@
 
     .plant-head {
         text-align: left;
-        font: normal normal bold 28px/36px Helvetica;
+        font: normal normal bold 1.75rem/2.25rem Helvetica;
         position: relative;
         color: #354463;
         left: 0%;
         padding-right: 0%;
         margin-right: 12%;
-
     }
 
     .hunger {
@@ -1333,11 +1335,11 @@
     }
 
     .icon-para {
-        font-size: 25px;
+        font-size: 1.5625rem;
     }
 
     .icon-head {
-        font-size: 25px;
+        font-size: 1.5625rem;
     }
 
     .action-today {
@@ -1347,7 +1349,7 @@
     }
 
     .did-you-know {
-        font: normal normal normal 15px/17px Helvetica;
+        font: normal normal normal 0.9375rem/1.0625rem Helvetica;
         height: 4%;
         width: 30%;
         position: absolute;
@@ -1388,12 +1390,11 @@
     }
 
     .read-content {
-        font-size: 25px;
-        ;
+        font-size: 1.5625rem;
     }
 
     .read-text {
-        font-size: 17px;
+        font-size: 1.0625rem;
     }
 
     .stories {
@@ -1405,7 +1406,7 @@
         height: 15%;
         padding: 2%;
         margin-top: 3vw;
-        margin-left: 00vw;
+        margin-left: 0vw;
         margin-bottom: 10%;
     }
 
@@ -1439,7 +1440,7 @@
 
     .event-para {
         text-align: left;
-        font: normal normal normal 72px/76px Flood Std;
+        font: normal normal normal 4.5rem/4.75rem Flood Std;
         letter-spacing: 0px;
         color: #FFFFFF;
     }
@@ -1458,7 +1459,7 @@
         margin-left: 15%;
         margin-top: 10%;
         text-align: left;
-        font: normal normal bold 44px/56px Helvetica;
+        font: normal normal bold 2.75rem/3.5rem Helvetica;
         width: 50%;
     }
 
@@ -1467,19 +1468,19 @@
         top: 10%;
         right: 50%;
         text-align: left;
-        font: normal normal bold 44px/56px Helvetica;
+        font: normal normal bold 2.75rem/3.5rem Helvetica;
         width: 50%;
     }
 
     .event-div-para {
-        font: normal normal 300 20px/32px Helvetica;
+        font: normal normal 300 1.25rem/2rem Helvetica;
         margin-left: 15%;
         text-align: left;
         width: 50%;
     }
 
     .event-div-para1 {
-        font: normal normal 300 20px/32px Helvetica;
+        font: normal normal 300 1.25rem/2rem Helvetica;
         margin-top: 10%;
         margin-bottom: 0%;
         text-align: left;
@@ -1493,7 +1494,7 @@
         position: absolute;
         left: 0%;
         top: -1%;
-        font: normal normal normal 14px/17px Helvetica;
+        font: normal normal normal 0.875rem/1.0625rem Helvetica;
     }
 
     .event-content1 .event-div1 {
@@ -1502,11 +1503,11 @@
         position: absolute;
         left: 39%;
         top: -1%;
-        font: 17px;
+        font: 1rem;
     }
 
     .event-read {
-        font: normal normal bold 18px/22px Helvetica;
+        font: normal normal bold 1.125rem/1.375rem Helvetica;
         width: 30%;
         height: 60%;
         margin-left: 15%;
@@ -1516,7 +1517,7 @@
     }
 
     .event-read1 {
-        font: normal normal bold 18px/22px Helvetica;
+        font: normal normal bold 1.125rem/1.375rem Helvetica;
         width: 30%;
         height: 60%;
         margin-right: 70%;
@@ -1541,9 +1542,9 @@
     }
 
     .sub-text {
-        font: normal normal bold 22px/28px Helvetica;
+        font: normal normal bold 1.375rem/1.75rem Helvetica;
         width: 80%;
-        font-size: 25px;
+        font-size: 1.5625rem;
     }
 
     .subscribe-contents {
@@ -1583,3 +1584,6 @@
         grid-row: 1;
     }
 }
+
+
+

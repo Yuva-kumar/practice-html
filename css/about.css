@@ -4,7 +4,6 @@
     box-sizing:border-box;
 }
 
-
 body {
     overflow-x: hidden;
 }
@@ -31,7 +30,7 @@ body {
 }
 .elements a{
     text-decoration: none;
-    font-size: 17px;
+    font-size: 1.0625rem;
 }
 .donatebutton{
     height:5vh;
@@ -45,7 +44,7 @@ body {
     border:0
 }
 .image1{
-    background :url('assets/assets/about-us/annie-spratt-427339-unsplash@2x.png') no-repeat;
+    background :url('../assets/assets/about-us/annie-spratt-427339-unsplash@2x.png') no-repeat;
     background-size: cover;
     background-position-x: 31%;
     display:flex;
@@ -60,16 +59,13 @@ body {
     margin-bottom:15%;
 }
 #para1{
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.375rem/1.75rem Helvetica;
     align-content: center; 
     text-align: center;
-    font: normal normal bold 22px/28px Helvetica;
     color: #354463;
     padding:5%;
-
 }
 .issue{
-    /* width:100%; */
     margin-bottom:10%;
     background-color: white;
     text-align: center;
@@ -77,7 +73,7 @@ body {
 .the-issue{
     height:4vh;
     width:27vw;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 0.875rem/1.0625rem Helvetica;
     letter-spacing: 0.56px;
     color: #FFFFFF;
     background: #354463 0% 0% no-repeat padding-box;
@@ -94,7 +90,6 @@ body {
     flex-direction:column;
     background: #354463 0% 0% no-repeat padding-box;
     padding:10%;
-
 }
 .mission-value{
     flex:1;
@@ -105,7 +100,7 @@ body {
 .mission-and-values{
     background: #FFFFFF 0% 0% no-repeat padding-box;
     text-align: center;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 0.875rem/1.0625rem Helvetica;
     letter-spacing: 0.56px;
     color: #354463;
     width:40%;
@@ -114,7 +109,7 @@ body {
 }
 .mission-value-text{
     text-align: center;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.375rem/1.75rem Helvetica;
     letter-spacing: 0px;
     color: #FFFFFF;
     margin-top:5%;
@@ -125,7 +120,6 @@ body {
     grid-template-rows: 1fr 1fr 1fr 1fr;
     margin-top:10%;
     gap:2rem;
-    gap:2em;
 }
 .mission-item-content{
     display:flex;
@@ -144,7 +138,7 @@ body {
 .icon-head{
     flex:1;
     text-align: left;
-    font: normal normal bold 16px/20px Helvetica;
+    font: normal normal bold 1rem/1.25rem Helvetica;
     letter-spacing: 0px;
     color: #FFFFFF;
     margin-top:10%;
@@ -152,7 +146,7 @@ body {
 .icon-text{
     flex:1;
     text-align: left;
-    font: normal normal 300 14px/20px Helvetica;
+    font: normal normal 300 0.875rem/1.25rem Helvetica;
     letter-spacing: -0.14px;
     color: #FFFFFF;
     margin-top:2%;
@@ -195,7 +189,7 @@ body {
     flex:1;
     margin-left:27%;
     text-align: center;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 0.875rem/1.0625rem Helvetica;
     letter-spacing: 0.56px;
     color: #FFFFFF;
     background: #354463 0% 0% no-repeat padding-box;
@@ -203,13 +197,13 @@ body {
 .team-head{
     flex:1;
     text-align: center;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.375rem/1.75rem Helvetica;
     color: #354463;
     margin-top:2%;
 }
 .team-para{
     text-align: center;
-    font: normal normal 300 14px/20px Helvetica;
+    font: normal normal 300 0.875rem/1.25rem Helvetica;
     letter-spacing: -0.14px;
     color: #354463;
     margin-top:2%;
@@ -219,7 +213,7 @@ body {
 }
 .team-mate-name{
     text-align: left;
-    font: normal normal 300 14px/20px Helvetica;
+    font: normal normal 300 0.875rem/1.25rem Helvetica;
     letter-spacing: -0.14px;
     color: #FFFFFF; 
     padding:2%;  
@@ -234,7 +228,7 @@ body {
     margin-top:10%;
 }
 .impact{
-    background: url("assets/assets/about-us/Impact Background.png");
+    background: url("../assets/assets/about-us/Impact Background.png");
     background-color: rgba(0,0,0,0.8);
     display:flex;
     flex-direction: column;
@@ -250,7 +244,7 @@ body {
 }
 .our-impact-div{
     text-align: center;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 0.875rem/1.0625rem Helvetica;
     letter-spacing: 0.56px;
     color: #354463;
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -261,7 +255,7 @@ body {
 .our-impact-text{
     margin-top:10%;
     text-align: center;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.375rem/1.75rem Helvetica;
     letter-spacing: 0px;
     color: #FFFFFF;
 }
@@ -280,15 +274,14 @@ body {
 .impact-head{
     flex:1;
     text-align: center;
-    font: normal normal normal 44px/46px Flood Std;
+    font: normal normal normal 2.75rem/2.875rem Flood Std;
     letter-spacing: 0px;
     color: #FFFFFF;
-
 }
 .impact-text{
     flex:1;
     text-align: center;
-    font: normal normal bold 16px/20px Helvetica;
+    font: normal normal bold 1rem/1.25rem Helvetica;
     letter-spacing: 0px;
     color: #FFFFFF;
     padding:0% 20% 0% 20% ;
@@ -303,7 +296,7 @@ body {
 .take-action-text{
     flex:1;
     text-align: center;
-    font: normal normal normal 44px/46px Flood Std;
+    font: normal normal normal 2.75rem/2.875rem Flood Std;
     letter-spacing: 0px;
     color: #FFFFFF;
     margin-bottom:10%;
@@ -317,7 +310,7 @@ body {
 .take-action-year{
     flex:1;
     text-align: center;
-    font: normal normal normal 14px/17px Helvetica;
+    font: normal normal normal 0.875rem/1.0625rem Helvetica;
     letter-spacing: 0.56px;
     color: #354463;
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -341,21 +334,20 @@ body {
 }
 .take-div-head{
     text-align: center;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.375rem/1.75rem Helvetica;
     letter-spacing: 0px;
     color: #354463;
     margin-bottom:1%;
 }
 .take-div-text{
-    font: normal normal 300 16px/20px Helvetica;
+    font: normal normal 300 1rem/1.25rem Helvetica;
     letter-spacing: -0.14px;
     color: #354463;
     padding:5%;
-   
 }
 .take-div-read{
     text-align: center;
-    font: normal normal bold 18px/22px Helvetica;
+    font: normal normal bold 1.125rem/1.375rem Helvetica;
     letter-spacing: 0px;
     color: #354463;
     background: #C1F7D5 0% 0% no-repeat padding-box;
@@ -379,7 +371,7 @@ body {
 }
 .sub-text{
     text-align: left;
-    font: normal normal bold 22px/28px Helvetica;
+    font: normal normal bold 1.375rem/1.75rem Helvetica;
     letter-spacing: 0px;
     color: #354463;
 }
@@ -402,7 +394,7 @@ body {
 .sub{
     flex:1;
     text-align: left;
-    font: normal normal bold 16px/19px Helvetica;
+    font: normal normal bold 1rem/1.1875rem Helvetica;
     letter-spacing: 0px;
     color: #C1F7D5;
     background: #354463 0% 0% no-repeat padding-box;
@@ -420,14 +412,14 @@ body {
 }
 .title{
     text-align: left;
-    font: normal normal bold 18px/22px Helvetica;
+    font: normal normal bold 1.125rem/1.375rem Helvetica;
     letter-spacing: 0px;
     color: #354463;
     opacity: 1;
 }
 .contact{
     text-align: left;
-    font: normal normal 300 14px/20px Helvetica;
+    font: normal normal 300 0.875rem/1.25rem Helvetica;
     letter-spacing: -0.14px;
     color: #354463;
     opacity: 1;
@@ -435,7 +427,7 @@ body {
 .follow{
     text-align: left;
     text-decoration: underline;
-    font: normal normal 300 14px/24px Helvetica;
+    font: normal normal 300 0.875rem/1.5rem Helvetica;
     letter-spacing: -0.14px;
     color: #354463;
     opacity: 1;
@@ -443,7 +435,7 @@ body {
 .learn{
     text-align: left;
     text-decoration: underline;
-    font: normal normal 300 14px/24px Helvetica;
+    font: normal normal 300 0.875rem/1.5rem Helvetica;
     letter-spacing: -0.14px;
     color: #354463;
     opacity: 1;
@@ -452,7 +444,7 @@ body {
     grid-column:2;
     grid-row:3/4;
     text-align: right;
-    font: normal normal normal 44px/46px Flood Std;
+    font: normal normal normal 2.75rem/2.875rem Flood Std;
     letter-spacing: 0px;
     color: #354463;
     opacity: 1;
@@ -464,7 +456,7 @@ body {
     }
     .heading1{
         padding-left:1px;
-        font-size: 25px;
+        font-size: 1.5625rem;
     }
     .navelements{
         flex-direction:column;
@@ -473,12 +465,12 @@ body {
     .donatebutton{
         width:30vw;
         margin-top:5%; 
-        font-size: 20px;
+        font-size: 1.25rem;
     }
     .elements{
         display:flex;
         justify-content: space-between;
-        font: normal normal 300 16px/24px Helvetica;
+        font: normal normal 300 1rem/1.5rem Helvetica;
     }
     .image1{
         margin-top:2%;
@@ -503,7 +495,6 @@ body {
     }
     .mission{
         padding:7%;
-
     }
     .mission-and-values{
         width:20%;
@@ -513,7 +504,7 @@ body {
     }
     .mission-value-text{
         text-align: left;
-        font: normal normal bold 28px/36px Helvetica;
+        font: normal normal bold 1.75rem/1.125rem Helvetica;
         margin-top:4%;
     }
     .mission-items{
@@ -525,13 +516,13 @@ body {
     .icon-head{
         flex:1;
         text-align: left;
-        font: normal normal bold 22px/28px Helvetica;
+        font: normal normal bold 1.75rem/1.75rem Helvetica;
         letter-spacing: 0px;
         color: #FFFFFF;
         margin-top:10%;
     }
     .icon-text{
-        font: normal normal 300 16px/22px Helvetica;
+        font: normal normal 300 1rem/1.125rem Helvetica;
     }
     .our-team{
         padding:7%;
@@ -562,14 +553,14 @@ body {
     .team-para{
         padding-left:8%;
         text-align: left;
-        font: normal normal 300 18px/22px Helvetica;
+        font: normal normal 300 1.125rem/1.125rem Helvetica;
         margin-top:10%;
     }
     .team-mate-image{
         padding:15%;
     }
     .team-mate-name{
-        font: normal normal 300 16px/22px Helvetica;
+        font: normal normal 300 1rem/1.125rem Helvetica;
         position:relative;
         left:24%;
         bottom:20%;
@@ -588,20 +579,19 @@ body {
         margin-left:35%;
     }
     .our-impact-text{
-        font: normal normal bold 36px/46px Helvetica;
+        font: normal normal bold 2.25rem/2.875rem Helvetica;
     }
     .impact-values{
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr ;
         margin-top:10%;
         gap:3rem;
-
     }
     .impact-head{
-        font: normal normal normal 72px/76px Flood Std;
+        font: normal normal normal 4.5rem/4.75rem Flood Std;
     }
     .impact-text{
-        font: normal normal bold 22px/28px Helvetica;
+        font: normal normal bold 1.375rem/1.75rem Helvetica;
     }
 
     .extra-content{
@@ -626,7 +616,8 @@ body {
     }
         .sub-text{
         width:60%;
-        font-size: 25px;
+        font-size: 1.5625rem;
+        margin-top:5%;
     }
     .subscribe-contents{
         margin-top:3%;
@@ -656,7 +647,7 @@ body {
 }
 @media(min-width:1025px){
     .heading1{
-        font-size: 30px;
+        font-size: 1.875rem;
         line-height:102%;
     }
     .navbar{
@@ -676,9 +667,9 @@ body {
     .elements{
         display:flex;
         justify-content: space-between;
-        font-size:50px;
+        font-size:3.125rem;
         padding-top:3%;
-        font: normal normal 300 38px/8px Helvetica;
+        font: normal normal 300 2.375rem/0.5rem Helvetica;
     }
     .donate{
         width: 100%;
@@ -692,11 +683,8 @@ body {
     }
     .donatebutton{
         width:100%;
-        justify-content: space-between;
-        background: #C1F7D5 0% 0% no-repeat padding-box;
         border-radius: 100px;
-        opacity: 1;
-        font-size:20px; 
+        font-size:1.25rem; 
         margin-left: 0;
         margin-top:0%;
         align-self: center;
@@ -713,7 +701,7 @@ body {
     }
     #para1{
         text-align: left;
-        font: normal normal bold 24px/36px Helvetica;
+        font: normal normal bold 1.5rem/2.25rem Helvetica;
         letter-spacing: 0px;
         opacity: 1;   
         padding:0%;
@@ -735,7 +723,6 @@ body {
     }
     .mission{
         padding:7%;
-
     }
     .mission-and-values{
         width:20%;
@@ -745,7 +732,7 @@ body {
     }
     .mission-value-text{
         text-align: left;
-        font: normal normal bold 28px/36px Helvetica;
+        font: normal normal bold 1.75rem/2.25rem Helvetica;
         margin-top:3%;
     }
     .mission-items{
@@ -754,14 +741,14 @@ body {
         margin-top:3%;
     }
     .icon-head{
-        font: normal normal bold 28px/36px Helvetica;
+        font: normal normal bold 1.75rem/2.25rem Helvetica;
         margin-top:5%;
     }
     .icon-text{
-        font: normal normal 300 18px/24px Helvetica;
+        font: normal normal 300 1.125rem/1.5rem Helvetica;
         margin-top:0%;
     }
-        .our-team{
+    .our-team{
         padding:7%;
     }
     .our-team-content{
@@ -776,7 +763,7 @@ body {
         width:30%;
         padding:3%;
         margin-left:0%;
-        font: normal normal normal 17px/20px Helvetica;
+        font: normal normal normal 1.0625rem/1.25rem Helvetica;
         letter-spacing: 0.56px;
         display:flex;
         justify-content: center;
@@ -784,7 +771,7 @@ body {
     }
     .team-head{
         text-align: left;
-        font: normal normal bold 44px/56px Helvetica;
+        font: normal normal bold 2.75rem/3.5rem Helvetica;
         margin-top:5%;
         width:100%;
     }
@@ -792,13 +779,13 @@ body {
         padding-left:2%;
         text-align: left;
         margin-top:5%;
-        font: normal normal 300 23px/33px Helvetica;
+        font: normal normal 300 1.4375rem/2.0625rem Helvetica;
     }
     .team-mate-image{
         padding:0%;
     }
     .team-mate-name{
-        font: normal normal 300 18px/23px Helvetica;
+        font: normal normal 300 1.125rem/1.4375rem Helvetica;
         padding:2%; 
         position:relative;
         left:35%;
@@ -810,7 +797,7 @@ body {
     }
     .our-team-mates{
         grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows:1fr 1fr;
+        grid-template-rows: 1fr 1fr;
         gap:5rem;
         gap:5em;
         margin-top:1%;
@@ -826,7 +813,7 @@ body {
     }
     .our-impact-text{
         margin-top:5%;
-        font: normal normal bold 44px/56px Helvetica;
+        font: normal normal bold 2.75rem/3.5rem Helvetica;
     }
     .impact-values{
         display:grid;
@@ -834,26 +821,24 @@ body {
         grid-template-rows: 0fr;
         margin-top:1%;
         gap:0rem;
-
     }
-
     .impact-head{
-        font: normal normal normal 72px/76px Flood Std;
+        font: normal normal normal 4.5rem/4.75rem Flood Std;
     }
     .div-take-action{
         padding:7%;
     }
     .impact-text{
-        font: normal normal bold 22px/28px Helvetica;
+        font: normal normal bold 1.375rem/1.75rem Helvetica;
     }
-        .extra-content{
+    .extra-content{
         display:flex;
     }
     .take-action-content{
         width:15%;
     }
     .take-action-year{
-        font: normal normal normal 16px/19px Helvetica;
+        font: normal normal normal 1rem/1.1875rem Helvetica;
         letter-spacing: 0.56px;
         width:35%;
     }
@@ -863,14 +848,14 @@ body {
         margin-left:5%;
     }
     .take-div-head{
-        font: normal normal bold 25px/30px Helvetica;
+        font: normal normal bold 1.5625rem/1.875rem Helvetica;
     }
     .take-div-read{
-        font: normal normal bold 20px/24px Helvetica;
+        font: normal normal bold 1.25rem/1.5rem Helvetica;
     }
     .take-action-text{
         text-align: left;
-        font: normal normal normal 72px/76px Flood Std;
+        font: normal normal normal 4.5rem/4.75rem Flood Std;
         color: #FFFFFF;
         width:60%;
     }
@@ -880,22 +865,22 @@ body {
     }
     .sub-text{
         width:80%;
-        font-size: 25px;
+        font-size: 1.5625rem;
         margin-top:5%;
     }
     .subscribe-contents{
         margin-top:4%;
     }
     .placeholder{
-        height:2vw;
+        height:1.625rem;
         width:10px;
         opacity:1;
-        font-size:25px;
+        font-size:1.5625rem;
     }
     .sub{
-        height:2vw;
+        height:1.625rem;
         width:1%;
-        font-size:20px;
+        font-size:1.25rem;
     }
     .footer{
         padding:1%;
@@ -908,7 +893,7 @@ body {
     .stop{
         grid-column:5/6;
         grid-row:1/2;
-        font: normal normal normal 54px/56px Flood Std;
+        font: normal normal normal 3.375rem/3.5rem Flood Std;
         letter-spacing: 0px;
     }
     .learn{
@@ -916,18 +901,18 @@ body {
         grid-row:1;
         text-align: left;
         text-decoration: underline;
-        font: normal normal 300 28px/38px Helvetica;
+        font: normal normal 300 1.75rem/2.375rem Helvetica;
         letter-spacing: -0.14px;
         color: #354463;
         opacity: 1;
     }
     .contact{
-        font: normal normal 300 28px/38px Helvetica;
+        font: normal normal 300 1.75rem/2.375rem Helvetica;
     }
     .title{
-        font: normal normal 300 28px/38px Helvetica;
+        font: normal normal 300 1.75rem/2.375rem Helvetica;
     }
     .follow{
-        font: normal normal 300 28px/38px Helvetica;
+        font: normal normal 300 1.75rem/2.375rem Helvetica;
     }
 }
